@@ -1,6 +1,6 @@
-<h1><b>BloodBank</b></h1>
+# <h1><b>BloodBank</b></h1>
 
-<h3>About the Application</h3>
+# <h3>About the Application</h3>
 
 I have designed and implemented a robust web-based blood bank application, named "BloodBank," which serves as a platform for blood donation to organizations and provides hospitals with the ability to monitor the quantity of blood they have received from various sources. 
 
@@ -10,28 +10,28 @@ Organizations benefit from a dedicated interface comprising multiple modules, in
 
 Through careful consideration of technical implementation, the BloodBank application ensures seamless communication between users and the system while maintaining data privacy and security.
 
-<h3>Tech Stacks</h3>
+# <h3>Tech Stacks</h3>
 
-# <b>antd</b>- Ant Design is a React.js UI library that contains easy-to-use components that are useful for building interactive user interfaces.
+#<b>antd</b>- Ant Design is a React.js UI library that contains easy-to-use components that are useful for building interactive user interfaces.
 <br/>
 
-# <b> Tailwind CSS </b>-Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces. It is a highly customizable, 
+#<b> Tailwind CSS </b>-Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces. It is a highly customizable, 
 low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
 <br/>
 
-# <b>ReactJs</b>- React is a library for building composable user interfaces. It encourages the creation of reusable UI components, which present data that changes over time.
+#<b>ReactJs</b>- React is a library for building composable user interfaces. It encourages the creation of reusable UI components, which present data that changes over time.
 <br/>
-# <b>Redux</b> - Redux is a state management library for JavaScript applications. It provides a centralized store to manage the application state, with predictable state updates using actions and reducers, promoting scalable and maintainable code.
+#<b>Redux</b> - Redux is a state management library for JavaScript applications. It provides a centralized store to manage the application state, with predictable state updates using actions and reducers, promoting scalable and maintainable code.
 
-# <b>Node-</b> Node.js is an open-source, cross-platform JavaScript runtime environment and library for running web applications outside the client's browser.
-<br/>
-
-# <b>Express-</b> Express JS is a Node.js framework designed to build API's web applications cross-platform mobile apps quickly and make node js easy.
+#<b>Node-</b> Node.js is an open-source, cross-platform JavaScript runtime environment and library for running web applications outside the client's browser.
 <br/>
 
-# <b>MongoDB</b> MongoDB is an open-source NoSQL database management program. NoSQL (Not only SQL) is used as an alternative to traditional relational databases.
+#<b>Express-</b> Express JS is a Node.js framework designed to build API's web applications cross-platform mobile apps quickly and make node js easy.
+<br/>
 
-<h3>Web Pages ScreenShot</h3>
+#<b>MongoDB</b> MongoDB is an open-source NoSQL database management program. NoSQL (Not only SQL) is used as an alternative to traditional relational databases.
+
+# <h3>Web Pages ScreenShot</h3>
 <h4>Donar Registration page</h4>
 <img width="700" alt="Screenshot 2023-07-02 053730" src="https://github.com/cusp13/BloodBank-web/assets/108236157/8bb95aad-064d-4379-974f-315caab16141">
 <h4>Hospital Registration page</h4>
