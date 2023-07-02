@@ -1,10 +1,21 @@
-<h1>BloodBank</h1>
+<h1><b>BloodBank</b></h1>
+
+<h3>About the Application</h3>
+
+I have designed and implemented a robust web-based blood bank application, named "BloodBank," which serves as a platform for blood donation to organizations and provides hospitals with the ability to monitor the quantity of blood they have received from various sources. 
+
+The application offers distinct user interfaces tailored for donors, hospitals, and organizations. Donors can access their dashboards to view and manage their recent activities.
+
+Organizations benefit from a dedicated interface comprising multiple modules, including a customizable dashboard that presents real-time insights, analytics tools for performance evaluation, advanced filtering options to efficiently manage blood inventory, and activity tracking to monitor blood consumption trends. 
+
+Through careful consideration of technical implementation, the BloodBank application ensures seamless communication between users and the system while maintaining data privacy and security.
+
 <h3>Tech Stacks</h3>
 
 <b>antd</b>- Ant Design is a React.js UI library that contains easy-to-use components that are useful for building interactive user interfaces.
 <br/>
 
-<b>TailwindCSS</b>-Tailwind CSS is basically a utility-first CSS framework for rapidly building custom user interfaces. It is a highly customizable, 
+<b> Tailwind CSS </b>-Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces. It is a highly customizable, 
 low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
 <br/>
 
