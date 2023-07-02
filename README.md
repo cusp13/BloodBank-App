@@ -12,23 +12,24 @@ Through careful consideration of technical implementation, the BloodBank applica
 
 <h3>Tech Stacks</h3>
 
-<b>antd</b>- Ant Design is a React.js UI library that contains easy-to-use components that are useful for building interactive user interfaces.
+# <b>antd</b>- Ant Design is a React.js UI library that contains easy-to-use components that are useful for building interactive user interfaces.
 <br/>
 
-<b> Tailwind CSS </b>-Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces. It is a highly customizable, 
+# <b> Tailwind CSS </b>-Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces. It is a highly customizable, 
 low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
 <br/>
 
-<b>ReactJs</b>- React is a library for building composable user interfaces. It encourages the creation of reusable UI components, which present data that changes over time.
+# <b>ReactJs</b>- React is a library for building composable user interfaces. It encourages the creation of reusable UI components, which present data that changes over time.
+<br/>
+# <b>Redux</b> - Redux is a state management library for JavaScript applications. It provides a centralized store to manage the application state, with predictable state updates using actions and reducers, promoting scalable and maintainable code.
+
+# <b>Node-</b> Node.js is an open-source, cross-platform JavaScript runtime environment and library for running web applications outside the client's browser.
 <br/>
 
-<b>Node-</b> Node.js is an open-source, cross-platform JavaScript runtime environment and library for running web applications outside the client's browser.
+# <b>Express-</b> Express JS is a Node.js framework designed to build API's web applications cross-platform mobile apps quickly and make node js easy.
 <br/>
 
-<b>Express-</b> Express JS is a Node.js framework designed to build API's web applications cross-platform mobile apps quickly and make node js easy.
-<br/>
-
-<b>MongoDB</b> MongoDB is an open-source NoSQL database management program. NoSQL (Not only SQL) is used as an alternative to traditional relational databases.
+# <b>MongoDB</b> MongoDB is an open-source NoSQL database management program. NoSQL (Not only SQL) is used as an alternative to traditional relational databases.
 
 <h3>Web Pages ScreenShot</h3>
 <h4>Donar Registration page</h4>
