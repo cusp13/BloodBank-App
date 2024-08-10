@@ -1,7 +1,7 @@
 {
   "name": "Divyansh-bloodbank",
   "version": "1.0.0",
-  "description": "",
+  "description": "A blood management portal",
   "main": "index.js",
   "scripts": {
     "build": "cd server && npm install  && cd ../client && npm install && npm run build",
