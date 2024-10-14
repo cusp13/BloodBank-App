@@ -30,6 +30,11 @@ low-level CSS framework that gives you all of the building blocks you need to bu
 <br/>
 
 #<b>MongoDB</b> MongoDB is an open-source NoSQL database management program. NoSQL (Not only SQL) is used as an alternative to traditional relational databases.
+ 
+#<h3> Setup
+Node version - 18.
+MONGO_URL - <you have give your mongo connection string>.
+jwt_secret - <own secret>.
 
 # <h3>Web Pages ScreenShot</h3>
 <h4>Donar Registration page</h4>
